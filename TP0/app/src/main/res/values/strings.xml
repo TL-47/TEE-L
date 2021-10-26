@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP0</string>
+    <string name="bonjouR">Bonjour</string>
+    <string name="name1">Enter username</string>
+</resources>
